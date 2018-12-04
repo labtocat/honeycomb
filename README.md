@@ -1,5 +1,20 @@
 # Spring Cloud
 
+
+## Installation on MAC
+
+```shell
+# install sdk man and not using brew
+curl -s "https://get.sdkman.io" | bash
+
+# install spring boot
+sdk use springboot 1.5.3.RELEASE
+
+# install spring cloud
+spring install org.springframework.cloud:spring-cloud-cli:1.3.2.RELEASE
+
+```
+
 ## Using This Repo
 
 There are four importand directories in this repository.
