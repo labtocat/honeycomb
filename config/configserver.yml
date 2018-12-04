@@ -7,6 +7,6 @@ spring:
     config:
       server:
         git:
-        #  uri: https://github.com/labtocat/honeycomb
-        #  searchPaths: cloud-config
-          uri: file:////Users/labtocat/Code/Amura/SpringCloud/cloud-config
+         uri: https://github.com/amuratech/jarvis
+         searchPaths: spring-cloud/cloud-config
+          # uri: file:////Users/labtocat/Code/Amura/SpringCloud/cloud-config
