@@ -1,2 +1,8 @@
-server.port: 7070
-name: Ryan
+spring:
+  application:
+    name: name
+
+eureka:
+  client:
+    registerWithEureka: false
+    fetchRegistry: false
