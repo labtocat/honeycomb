@@ -1,10 +1,6 @@
 server:
   port: 7070
 
-eureka:
-  client:
-    register-with-eureka: false
-
 name: Ryan
 names:
   - Baxter
