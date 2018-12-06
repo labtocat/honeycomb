@@ -28,10 +28,6 @@ There are four importand directories in this repository.
 
 Before you run the applications in this repository you should install the [Spring Cloud CLI](https://cloud.spring.io/spring-cloud-cli/).
 
-### About The Apps
-
-There are three apps in the `appolo` and four apps in the `core` directories.  
-
 #### Name App
 The `name` app will return the value of the `name` property when making an HTTP `GET` request to `/`.
 
