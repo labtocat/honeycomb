@@ -1,9 +1,5 @@
 server:
   port: 9090
-eureka:
-  client:
-    registerWithEureka: false
-    fetchRegistry: false
 greeting: Hello
 greetings:
   EN: Hello

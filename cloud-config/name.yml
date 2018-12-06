@@ -1,11 +1,5 @@
 server:
   port: 7070
-
-eureka:
-  client:
-    registerWithEureka: false
-    fetchRegistry: false
-  
 name: Ryan
 names:
   - Baxter
