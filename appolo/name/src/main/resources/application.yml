@@ -1,3 +1,7 @@
 spring:
   application:
     name: name
+
+eureka:
+  client:
+    register-with-eureka: false

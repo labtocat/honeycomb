@@ -1,5 +1,10 @@
 server:
   port: 9090
+
+eureka:
+  client:
+    register-with-eureka: false
+    
 greeting: Hello
 greetings:
   EN: Hello
